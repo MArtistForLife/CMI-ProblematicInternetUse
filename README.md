@@ -61,4 +61,4 @@ After model evaluation, the trained Random Forest model is used to predict `sii`
 - **Predictions**: After running the script, the predicted `sii` values for the test set will be saved as `submission.csv`.
 
 ## Dataset Acknowledgement
-This project uses data from the [Problematic Internet Usage competition](https://www.kaggle.com/competitions/child-mind-institute-detecting-problematic-internet-use) hosted by Kaggle. Due to competition rules, the dataset cannot be shared here.
+This project uses data from the [Problematic Internet Usage competition](https://www.kaggle.com/competitions/child-mind-institute-problematic-internet-use) hosted by Kaggle. Due to competition rules, the dataset cannot be shared here.
