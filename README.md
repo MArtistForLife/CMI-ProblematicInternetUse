@@ -59,3 +59,6 @@ After model evaluation, the trained Random Forest model is used to predict `sii`
 - **Data Files**: Ensure that dataset files (`train.csv` and `test.csv`) are available in the appropriate directory.
 - **Running the Script**: The script can be run and executed in a Python environment.
 - **Predictions**: After running the script, the predicted `sii` values for the test set will be saved as `submission.csv`.
+
+## Dataset Acknowledgement
+This project uses data from the [Problematic Internet Usage competition](https://www.kaggle.com/competitions/child-mind-institute-detecting-problematic-internet-use) hosted by Kaggle. Due to competition rules, the dataset cannot be shared here.
