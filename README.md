@@ -38,7 +38,12 @@ The dataset is loaded from CSV files, and these steps are applied:
 ## **Exploratory Data Analysis (EDA)**
 EDA is performed to understand the relationship between various features and the target variable:
 - **Boxplots** are created for categorical and numerical columns to analyze their relationship with `sii`.
+
+![Boxplots showing how numerical categories affect SII rankings](https://github.com/MArtistForLife/CMI-ProblematicInternetUse/blob/main/cmi_internetuse_pic1.jpg)
+
 - A **correlation matrix** is used to quantify the correlation between features, and then visualized via a **heatmap**.
+
+![Correlation matrix representing how strongly related pairs of features are to each other](https://github.com/MArtistForLife/CMI-ProblematicInternetUse/blob/main/cmi_internetuse_pic2.jpg)
 
 ## **Model Training**
 - Dataset is split into **training (80%)** and **testing (20%)** sets.
